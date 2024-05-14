@@ -16,17 +16,8 @@ Our website is powered by HTML, CSS, JavaScript, jQuery, and Bootstrap for a sea
 
 🌐 **Explore Body Blitz Online:**
 
-👉 [Body Blitz Website](https://gym-website-swamithedev.vercel.app/)
 
-📢 **Thank you for checking out our project!** 🙌
 
-📧 **Get in Touch**
-
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
-
-🌟 **Portfolio**
-
-Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here!
 
 🌟 **Hashtags:** 
 
